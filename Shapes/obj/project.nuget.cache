@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ExGaEBFkiENhhAR/R4j4p8+UICh3cN8QVXlgaa4c/ki5twAQDUSZD0MVzR20/J6rDSuvMZ+AJ3/ajY36o8hh0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\astemir.kuashev\\Desktop\\MindBox\\Shapes\\Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\astemir.kuashev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
